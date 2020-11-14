@@ -1,3 +1,7 @@
+.container {
+	width: 700px; 
+	margin: 0 auto; 
+}
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
@@ -18,39 +22,9 @@
   }
 }
 
-.container-events {
-  width: 700px; 
-  margin: 0 auto; 
-}
-
-.container-events img {
-  width: 400px;
-  border-radius: 10px; 
-  margin: 20px;
-}
-
-.container-events h2 {
-  flex-grow: 1;
-  padding-left: 20px;
-  font-size:36px;
-  text-align: center;
-}
-
-#container-menu-events {
+#container-menu-profiles{
   position: center;
-  width: 700px; 
-  margin: 0 auto; 
-}
+  width: 200px;
+  padding: 130px;
 
-.container-menu-events h2 {
-  flex-grow: 1;
-  padding-left: 20px;
-  font-size:36px;
-  text-align: center;
-}
-
-.container-menu-events img {
-  width: 400px;
-  border-radius: 10px; 
-  margin: 10px; 
 }
