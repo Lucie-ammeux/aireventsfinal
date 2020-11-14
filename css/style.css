@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/logo.css");
+@import url("components/containert.css");
+@import url("components/logo-t.css");
+@import url("components/button-home.css");
+@import url("components/banner.css");
+@import url("components/topnav.css");
+@import url("components/box.css");
+@import url("components/sous-titre.css");
 
 
 body {
@@ -10,7 +22,6 @@ h1, h2, h3 {
 	font-family: 'Oxygen', sans-serif;
 	font-weight: bold;
 }
-
 
 
 a {
